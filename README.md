@@ -100,13 +100,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadaundkar&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadaundkar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devadaundkar&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devadaundkar.devadaundkar" alt="Profile views" />
 </p>
 
 <h3 align="center">💬 "Solving real problems through clean, efficient code."</h3>
