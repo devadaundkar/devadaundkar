@@ -106,7 +106,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devadaundkar.devadaundkar" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=devadaundkar&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <h3 align="center">💬 "Solving real problems through clean, efficient code."</h3>
